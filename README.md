@@ -6,5 +6,5 @@
 マウスの左クリックでカービィから球を発射できる。この球でゴルドーを倒すことができる.
 
 # 動作環境
-macOS Sonoma 14.5
+macOS Sonoma 14.5 <br>
 Xcode Version 15.4
